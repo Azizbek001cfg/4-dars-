@@ -5,12 +5,12 @@
 // }
 
 // 2-ko'rinish:
-// let money = 25000
-// if(money>=30000) {
-//     console.log("Lavash yeyman");
-// } else {
-//     console.log("Lavashga pulim yetmaydi");
-// }
+    // let money = 25000
+    // if(money>=30000) {
+    //         console.log("Lavash yeyman");
+    // } else {
+    //     console.log("Lavashga pulim yetmaydi");
+    // }
 
 // let ism = prompt("Ismingizni kiriting:")
 // alert("Salom "+ism);
